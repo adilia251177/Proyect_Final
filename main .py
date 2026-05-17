@@ -14,7 +14,7 @@ CONCEPTOS POO APLICADOS DEL MODULO PROGRAMACION1
     - Constructor (__init__) en las 3 clases
     - Instancia de objetos (Estudiante, Materia, Nota)
     - Creación y uso de métodos (matricular, agregar_nota,
-      calcular_promedio, generar_reporte, etc.)
+      calcular_promedio, generar_reporte,)
     - Composición: Estudiante contiene Materias;
                    Materia contiene Notas
 =============================================================
